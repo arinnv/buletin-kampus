@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327132846049",
+    "project_id": "buletin-kampus",
+    "storage_bucket": "buletin-kampus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327132846049:android:26e8db086204222cc6a4a0",
+        "android_client_info": {
+          "package_name": "com.example.buletin_kampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327132846049-cnu3sevti3ft2n8tqrl2kbfig475di2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91w-CIY5TiD-_x3IJaOzEZUiNmHbHNIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327132846049-cnu3sevti3ft2n8tqrl2kbfig475di2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
